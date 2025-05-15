@@ -1,0 +1,1926 @@
+Katergori,RPN,Resiko
+S1,343,Tinggi
+S1 ,280,Tinggi
+S1,210,Tinggi
+S1,200,Sedang
+S1,245,Tinggi
+S1,96,Rendah
+S1,24,Sangat Rendah
+S1,80,Rendah
+S1,192,Sedang
+S1,384,Tinggi
+S1,60,Rendah
+S1,300,Tinggi
+S1,256,Tinggi
+S1,1,Sangat Rendah
+S1,144,Sedang
+S1,120,Sedang
+S1,20,Sangat Rendah
+S1,12,Sangat Rendah
+S1,12,Sangat Rendah
+S1,12,Sangat Rendah
+S1,72,Rendah
+S1,120,Sedang
+S1,16,Sangat Rendah
+S1,144,Sedang
+S1,50,Rendah
+S1,54,Rendah
+S1,30,Sangat Rendah
+S1,72,Rendah
+S1,54,Rendah
+S1,45,Rendah
+S1,72,Rendah
+S1,36,Sangat Rendah
+S1,72,Rendah
+S1,36,Sangat Rendah
+S1,30,Sangat Rendah
+S1,48,Rendah
+S1,30,Sangat Rendah
+S1,40,Sangat Rendah
+S1,30,Sangat Rendah
+S1,36,Sangat Rendah
+S1,24,Sangat Rendah
+S1,72,Rendah
+S1,36,Sangat Rendah
+S1,45,Rendah
+S1,126,Sedang
+S1,24,Sangat Rendah
+S1,105,Sedang
+S1,140,Sedang
+S1,140,Sedang
+S1,140,Sedang
+S1,105,Sedang
+S1,80,Rendah
+S1,64,Rendah
+S1,126,Sedang
+S1,125,Sedang
+S2,343,Tinggi
+S2,80,Rendah
+S2,512,Sangat Tinggi
+S2,162,Sedang
+S2,225,Tinggi
+S2,280,Tinggi
+S2,100,Rendah
+S2,105,Sedang
+S2,280,Tinggi
+S2,175,Sedang
+S2,60,Rendah
+S2,140,Sedang
+S2,128,Sedang
+S2,24,Sangat Rendah
+S2,168,Sedang
+S2,512,Sangat Tinggi
+S2,96,Rendah
+S2,120,Sedang
+S2,144,Sedang
+S2,18,Sangat Rendah
+S2,24,Sangat Rendah
+S2,72,Rendah
+S2,120,Sedang
+S2,75,Rendah
+S2,40,Sangat Rendah
+S2,72,Rendah
+S2,60,Rendah
+S2,126,Sedang
+S2,336,Tinggi
+S2,42,Rendah
+S2,42,Rendah
+S2,28,Sangat Rendah
+S2,54,Rendah
+S2,30,Sangat Rendah
+S2,72,Rendah
+S2,20,Sangat Rendah
+S2,12,Sangat Rendah
+S2,36,Sangat Rendah
+S2,63,Rendah
+S2,112,Sedang
+S2,45,Rendah
+S2,72,Rendah
+S2,64,Rendah
+S2,48,Rendah
+S2,150,Sedang
+S2,90,Rendah
+S2,24,Sangat Rendah
+S2,280,Tinggi
+S2,224,Tinggi
+S2,192,Sedang
+S2,144,Sedang
+S2,36,Sangat Rendah
+S2,48,Rendah
+S2,63,Rendah
+S2,125,Sedang
+S3,343,Tinggi
+S3,180,Sedang
+S3,245,Tinggi
+S3,405,Tinggi
+S3,147,Sedang
+S3,270,Tinggi
+S3,45,Rendah
+S3,210,Tinggi
+S3,216,Tinggi
+S3,280,Tinggi
+S3,48,Rendah
+S3,240,Tinggi
+S3,504,Sangat Tinggi
+S3,27,Sangat Rendah
+S3,270,Tinggi
+S3,294,Tinggi
+S3,4,Sangat Rendah
+S3,3,Sangat Rendah
+S3,1,Sangat Rendah
+S3,8,Sangat Rendah
+S3,36,Sangat Rendah
+S3,2,Sangat Rendah
+S3,8,Sangat Rendah
+S3,20,Sangat Rendah
+S3,24,Sangat Rendah
+S3,9,Sangat Rendah
+S3,9,Sangat Rendah
+S3,64,Rendah
+S3,72,Rendah
+S3,6,Sangat Rendah
+S3,12,Sangat Rendah
+S3,8,Sangat Rendah
+S3,27,Sangat Rendah
+S3,12,Sangat Rendah
+S3,12,Sangat Rendah
+S3,24,Sangat Rendah
+S3,6,Sangat Rendah
+S3,12,Sangat Rendah
+S3,36,Sangat Rendah
+S3,16,Sangat Rendah
+S3,36,Sangat Rendah
+S3,18,Sangat Rendah
+S3,45,Rendah
+S3,16,Sangat Rendah
+S3,60,Rendah
+S3,72,Rendah
+S3,126,Sedang
+S3,8,Sangat Rendah
+S3,24,Sangat Rendah
+S3,30,Sangat Rendah
+S3,144,Sedang
+S3,126,Sedang
+S3,144,Sedang
+S3,70,Rendah
+S3,576,Sangat Tinggi
+S4,125,Sedang
+S4,45,Rendah
+S4,378,Tinggi
+S4,50,Rendah
+S4,27,Sangat Rendah
+S4,324,Tinggi
+S4,45,Rendah
+S4,210,Tinggi
+S4,400,Tinggi
+S4,256,Tinggi
+S4,27,Sangat Rendah
+S4,240,Tinggi
+S4,300,Tinggi
+S4,8,Sangat Rendah
+S4,504,Sangat Tinggi
+S4,448,Tinggi
+S4,48,Rendah
+S4,20,Sangat Rendah
+S4,18,Sangat Rendah
+S4,45,Rendah
+S4,12,Sangat Rendah
+S4,10,Sangat Rendah
+S4,40,Sangat Rendah
+S4,48,Rendah
+S4,144,Sedang
+S4,80,Rendah
+S4,90,Rendah
+S4,80,Rendah
+S4,56,Rendah
+S4,112,Sedang
+S4,56,Rendah
+S4,126,Sedang
+S4,144,Sedang
+S4,112,Sedang
+S4,189,Sedang
+S4,56,Rendah
+S4,126,Sedang
+S4,126,Sedang
+S4,147,Sedang
+S4,336,Tinggi
+S4,140,Sedang
+S4,192,Sedang
+S4,112,Sedang
+S4,189,Sedang
+S4,90,Rendah
+S4,81,Rendah
+S4,162,Sedang
+S4,32,Sangat Rendah
+S4,48,Rendah
+S4,50,Rendah
+S4,60,Rendah
+S4,360,Tinggi
+S4,405,Tinggi
+S4,600,Sangat Tinggi
+S4,630,Sangat Tinggi
+F1,125,Sedang
+F1,343,Tinggi
+F1,210,Tinggi
+F1,243,Tinggi
+F1,147,Sedang
+F1,294,Tinggi
+F1,150,Sedang
+F1,210,Tinggi
+F1,84,Rendah
+F1,320,Tinggi
+F1,20,Sangat Rendah
+F1,200,Sedang
+F1,196,Sedang
+F1,12,Sangat Rendah
+F1,210,Tinggi
+F1,210,Tinggi
+F1,90,Rendah
+F1,72,Rendah
+F1,30,Sangat Rendah
+F1,120,Sedang
+F1,180,Sedang
+F1,80,Rendah
+F1,225,Tinggi
+F1,180,Sedang
+F1,384,Tinggi
+F1,504,Sangat Tinggi
+F1,486,Tinggi
+F1,392,Tinggi
+F1,504,Sangat Tinggi
+F1,441,Tinggi
+F1,504,Sangat Tinggi
+F1,504,Sangat Tinggi
+F1,448,Tinggi
+F1,378,Tinggi
+F1,567,Sangat Tinggi
+F1,336,Tinggi
+F1,504,Sangat Tinggi
+F1,392,Tinggi
+F1,504,Sangat Tinggi
+F1,504,Sangat Tinggi
+F1,448,Tinggi
+F1,512,Sangat Tinggi
+F1,448,Tinggi
+F1,343,Tinggi
+F1,30,Sangat Rendah
+F1,150,Sedang
+F1,216,Tinggi
+F1,630,Sangat Tinggi
+F1,648,Sangat Tinggi
+F1,567,Sangat Tinggi
+F1,84,Rendah
+F1,90,Rendah
+F1,288,Tinggi
+F1,200,Sedang
+F1,250,Tinggi
+F2,216,Tinggi
+F2,144,Sedang
+F2,100,Rendah
+F2,20,Sangat Rendah
+F2,105,Sedang
+F2,40,Sangat Rendah
+F2,80,Rendah
+F2,270,Tinggi
+F2,216,Tinggi
+F2,320,Tinggi
+F2,36,Sangat Rendah
+F2,240,Tinggi
+F2,336,Tinggi
+F2,4,Sangat Rendah
+F2,72,Rendah
+F2,448,Tinggi
+F2,20,Sangat Rendah
+F2,1,Sangat Rendah
+F2,2,Sangat Rendah
+F2,5,Sangat Rendah
+F2,63,Rendah
+F2,72,Rendah
+F2,6,Sangat Rendah
+F2,1,Sangat Rendah
+F2,6,Sangat Rendah
+F2,12,Sangat Rendah
+F2,16,Sangat Rendah
+F2,24,Sangat Rendah
+F2,24,Sangat Rendah
+F2,12,Sangat Rendah
+F2,18,Sangat Rendah
+F2,12,Sangat Rendah
+F2,12,Sangat Rendah
+F2,24,Sangat Rendah
+F2,18,Sangat Rendah
+F2,16,Sangat Rendah
+F2,6,Sangat Rendah
+F2,4,Sangat Rendah
+F2,18,Sangat Rendah
+F2,48,Rendah
+F2,40,Sangat Rendah
+F2,18,Sangat Rendah
+F2,64,Rendah
+F2,18,Sangat Rendah
+F2,12,Sangat Rendah
+F2,42,Rendah
+F2,72,Rendah
+F2,30,Sangat Rendah
+F2,60,Rendah
+F2,60,Rendah
+F2,48,Rendah
+F2,126,Sedang
+F2,252,Tinggi
+F2,108,Sedang
+F2,30,Sangat Rendah
+F3,216,Tinggi
+F3,256,Tinggi
+F3,252,Tinggi
+F3,168,Sedang
+F3,567,Sangat Tinggi
+F3,320,Tinggi
+F3,120,Sedang
+F3,240,Tinggi
+F3,504,Sangat Tinggi
+F3,224,Tinggi
+F3,30,Sangat Rendah
+F3,200,Sedang
+F3,128,Sedang
+F3,12,Sangat Rendah
+F3,280,Tinggi
+F3,384,Tinggi
+F3,60,Rendah
+F3,24,Sangat Rendah
+F3,168,Sedang
+F3,288,Tinggi
+F3,72,Rendah
+F3,144,Sedang
+F3,8,Sangat Rendah
+F3,512,Sangat Tinggi
+F3,504,Sangat Tinggi
+F3,448,Tinggi
+F3,448,Tinggi
+F3,504,Sangat Tinggi
+F3,392,Tinggi
+F3,392,Tinggi
+F3,504,Sangat Tinggi
+F3,448,Tinggi
+F3,448,Tinggi
+F3,448,Tinggi
+F3,448,Tinggi
+F3,576,Sangat Tinggi
+F3,441,Tinggi
+F3,448,Tinggi
+F3,576,Sangat Tinggi
+F3,392,Tinggi
+F3,336,Tinggi
+F3,384,Tinggi
+F3,392,Tinggi
+F3,252,Tinggi
+F3,350,Tinggi
+F3,192,Sedang
+F3,210,Tinggi
+F3,336,Tinggi
+F3,294,Tinggi
+F3,336,Tinggi
+F3,180,Sedang
+F3,225,Tinggi
+F3,288,Tinggi
+F3,150,Sedang
+F3,125,Sedang
+F4,216,Tinggi
+F4,168,Sedang
+F4,144,Sedang
+F4,288,Tinggi
+F4,147,Sedang
+F4,40,Sangat Rendah
+F4,12,Sangat Rendah
+F4,180,Sedang
+F4,245,Tinggi
+F4,224,Tinggi
+F4,35,Sangat Rendah
+F4,140,Sedang
+F4,175,Sedang
+F4,8,Sangat Rendah
+F4,108,Sedang
+F4,300,Tinggi
+F4,4,Sangat Rendah
+F4,6,Sangat Rendah
+F4,54,Rendah
+F4,6,Sangat Rendah
+F4,16,Sangat Rendah
+F4,5,Sangat Rendah
+F4,28,Sangat Rendah
+F4,125,Sedang
+F4,16,Sangat Rendah
+F4,24,Sangat Rendah
+F4,30,Sangat Rendah
+F4,18,Sangat Rendah
+F4,12,Sangat Rendah
+F4,16,Sangat Rendah
+F4,24,Sangat Rendah
+F4,16,Sangat Rendah
+F4,18,Sangat Rendah
+F4,18,Sangat Rendah
+F4,80,Rendah
+F4,40,Sangat Rendah
+F4,3,Sangat Rendah
+F4,2,Sangat Rendah
+F4,18,Sangat Rendah
+F4,36,Sangat Rendah
+F4,24,Sangat Rendah
+F4,27,Sangat Rendah
+F4,24,Sangat Rendah
+F4,24,Sangat Rendah
+F4,10,Sangat Rendah
+F4,42,Rendah
+F4,175,Sedang
+F4,210,Tinggi
+F4,224,Tinggi
+F4,280,Tinggi
+F4,24,Sangat Rendah
+F4,72,Rendah
+F4,72,Rendah
+F4,200,Sedang
+F4,64,Rendah
+F5,27,Sangat Rendah
+F5,36,Sangat Rendah
+F5,294,Tinggi
+F5,120,Sedang
+F5,63,Rendah
+F5,432,Tinggi
+F5,48,Rendah
+F5,294,Tinggi
+F5,84,Rendah
+F5,196,Sedang
+F5,288,Tinggi
+F5,280,Tinggi
+F5,81,Rendah
+F5,1,Sangat Rendah
+F5,40,Sangat Rendah
+F5,630,Sangat Tinggi
+F5,108,Sedang
+F5,84,Rendah
+F5,168,Sedang
+F5,8,Sangat Rendah
+F5,128,Sedang
+F5,126,Sedang
+F5,147,Sedang
+F5,252,Tinggi
+F5,252,Tinggi
+F5,294,Tinggi
+F5,294,Tinggi
+F5,336,Tinggi
+F5,240,Tinggi
+F5,252,Tinggi
+F5,294,Tinggi
+F5,210,Tinggi
+F5,384,Tinggi
+F5,192,Sedang
+F5,175,Sedang
+F5,180,Sedang
+F5,180,Sedang
+F5,210,Tinggi
+F5,100,Rendah
+F5,144,Sedang
+F5,48,Rendah
+F5,120,Sedang
+F5,60,Rendah
+F5,75,Rendah
+F5,210,Tinggi
+F5,168,Sedang
+F5,36,Sangat Rendah
+F5,392,Tinggi
+F5,392,Tinggi
+F5,336,Tinggi
+F5,150,Sedang
+F5,105,Sedang
+F5,150,Sedang
+F5,125,Sedang
+F5,192,Sedang
+L1,125,Sedang
+L1,80,Rendah
+L1,320,Tinggi
+L1,144,Sedang
+L1,189,Sedang
+L1,144,Sedang
+L1,2,Sangat Rendah
+L1,240,Tinggi
+L1,105,Sedang
+L1,192,Sedang
+L1,120,Sedang
+L1,150,Sedang
+L1,384,Tinggi
+L1,8,Sangat Rendah
+L1,256,Tinggi
+L1,800,Sangat Tinggi
+L1,120,Sedang
+L1,48,Rendah
+L1,72,Rendah
+L1,20,Sangat Rendah
+L1,126,Sedang
+L1,100,Rendah
+L1,192,Sedang
+L1,216,Tinggi
+L1,96,Rendah
+L1,224,Tinggi
+L1,84,Rendah
+L1,96,Rendah
+L1,105,Sedang
+L1,175,Sedang
+L1,210,Tinggi
+L1,147,Sedang
+L1,192,Sedang
+L1,288,Tinggi
+L1,504,Sangat Tinggi
+L1,512,Sangat Tinggi
+L1,168,Sedang
+L1,144,Sedang
+L1,280,Tinggi
+L1,378,Tinggi
+L1,175,Sedang
+L1,100,Rendah
+L1,210,Tinggi
+L1,80,Rendah
+L1,280,Tinggi
+L1,150,Sedang
+L1,90,Rendah
+L1,126,Sedang
+L1,126,Sedang
+L1,84,Rendah
+L1,180,Sedang
+L1,72,Rendah
+L1,160,Sedang
+L1,420,Tinggi
+L1,400,Tinggi
+L2,125,Sedang
+L2,294,Tinggi
+L2,288,Tinggi
+L2,128,Sedang
+L2,343,Tinggi
+L2,315,Tinggi
+L2,4,Sangat Rendah
+L2,560,Sangat Tinggi
+L2,192,Sedang
+L2,288,Tinggi
+L2,189,Sedang
+L2,150,Sedang
+L2,168,Sedang
+L2,48,Rendah
+L2,42,Rendah
+L2,490,Tinggi
+L2,70,Rendah
+L2,200,Sedang
+L2,448,Tinggi
+L2,504,Sangat Tinggi
+L2,144,Sedang
+L2,96,Rendah
+L2,576,Sangat Tinggi
+L2,567,Sangat Tinggi
+L2,720,Sangat Tinggi
+L2,576,Sangat Tinggi
+L2,720,Sangat Tinggi
+L2,729,Sangat Tinggi
+L2,648,Sangat Tinggi
+L2,504,Sangat Tinggi
+L2,576,Sangat Tinggi
+L2,576,Sangat Tinggi
+L2,729,Sangat Tinggi
+L2,448,Tinggi
+L2,392,Tinggi
+L2,576,Sangat Tinggi
+L2,441,Tinggi
+L2,576,Sangat Tinggi
+L2,648,Sangat Tinggi
+L2,576,Sangat Tinggi
+L2,294,Tinggi
+L2,448,Tinggi
+L2,392,Tinggi
+L2,336,Tinggi
+L2,500,Tinggi
+L2,400,Tinggi
+L2,108,Sedang
+L2,576,Sangat Tinggi
+L2,504,Sangat Tinggi
+L2,729,Sangat Tinggi
+L2,400,Tinggi
+L2,432,Tinggi
+L2,700,Sangat Tinggi
+L2,450,Tinggi
+L2,300,Tinggi
+L3,125,Sedang
+L3,27,Sangat Rendah
+L3,120,Sedang
+L3,18,Sangat Rendah
+L3,105,Sedang
+L3,72,Rendah
+L3,4,Sangat Rendah
+L3,140,Sedang
+L3,210,Tinggi
+L3,224,Tinggi
+L3,20,Sangat Rendah
+L3,270,Tinggi
+L3,270,Tinggi
+L3,12,Sangat Rendah
+L3,180,Sedang
+L3,200,Sedang
+L3,12,Sangat Rendah
+L3,4,Sangat Rendah
+L3,1,Sangat Rendah
+L3,5,Sangat Rendah
+L3,60,Rendah
+L3,72,Rendah
+L3,7,Sangat Rendah
+L3,1,Sangat Rendah
+L3,12,Sangat Rendah
+L3,6,Sangat Rendah
+L3,6,Sangat Rendah
+L3,4,Sangat Rendah
+L3,6,Sangat Rendah
+L3,18,Sangat Rendah
+L3,36,Sangat Rendah
+L3,18,Sangat Rendah
+L3,18,Sangat Rendah
+L3,36,Sangat Rendah
+L3,8,Sangat Rendah
+L3,27,Sangat Rendah
+L3,2,Sangat Rendah
+L3,4,Sangat Rendah
+L3,27,Sangat Rendah
+L3,32,Sangat Rendah
+L3,27,Sangat Rendah
+L3,27,Sangat Rendah
+L3,12,Sangat Rendah
+L3,27,Sangat Rendah
+L3,32,Sangat Rendah
+L3,48,Rendah
+L3,64,Rendah
+L3,56,Rendah
+L3,56,Rendah
+L3,63,Rendah
+L3,48,Rendah
+L3,125,Sedang
+L3,125,Sedang
+L3,125,Sedang
+L3,125,Sedang
+L4,125,Sedang
+L4,150,Sedang
+L4,270,Tinggi
+L4,320,Tinggi
+L4,63,Rendah
+L4,50,Rendah
+L4,12,Sangat Rendah
+L4,384,Tinggi
+L4,384,Tinggi
+L4,192,Sedang
+L4,56,Rendah
+L4,324,Tinggi
+L4,576,Sangat Tinggi
+L4,36,Sangat Rendah
+L4,210,Tinggi
+L4,384,Tinggi
+L4,75,Rendah
+L4,4,Sangat Rendah
+L4,3,Sangat Rendah
+L4,5,Sangat Rendah
+L4,4,Sangat Rendah
+L4,4,Sangat Rendah
+L4,7,Sangat Rendah
+L4,1,Sangat Rendah
+L4,12,Sangat Rendah
+L4,12,Sangat Rendah
+L4,18,Sangat Rendah
+L4,6,Sangat Rendah
+L4,8,Sangat Rendah
+L4,6,Sangat Rendah
+L4,36,Sangat Rendah
+L4,27,Sangat Rendah
+L4,12,Sangat Rendah
+L4,24,Sangat Rendah
+L4,27,Sangat Rendah
+L4,24,Sangat Rendah
+L4,6,Sangat Rendah
+L4,3,Sangat Rendah
+L4,18,Sangat Rendah
+L4,18,Sangat Rendah
+L4,18,Sangat Rendah
+L4,12,Sangat Rendah
+L4,18,Sangat Rendah
+L4,12,Sangat Rendah
+L4,18,Sangat Rendah
+L4,16,Sangat Rendah
+L4,60,Rendah
+L4,36,Sangat Rendah
+L4,48,Rendah
+L4,105,Sedang
+L4,32,Sangat Rendah
+L4,125,Sedang
+L4,125,Sedang
+L4,125,Sedang
+L4,125,Sedang
+L5,125,Sedang
+L5,175,Sedang
+L5,360,Tinggi
+L5,144,Sedang
+L5,70,Rendah
+L5,360,Tinggi
+L5,9,Sangat Rendah
+L5,300,Tinggi
+L5,500,Tinggi
+L5,280,Tinggi
+L5,50,Rendah
+L5,135,Sedang
+L5,90,Rendah
+L5,80,Rendah
+L5,60,Rendah
+L5,448,Tinggi
+L5,4,Sangat Rendah
+L5,120,Sedang
+L5,84,Rendah
+L5,30,Sangat Rendah
+L5,60,Rendah
+L5,144,Sedang
+L5,112,Sedang
+L5,28,Sangat Rendah
+L5,192,Sedang
+L5,112,Sedang
+L5,144,Sedang
+L5,168,Sedang
+L5,256,Tinggi
+L5,112,Sedang
+L5,126,Sedang
+L5,64,Rendah
+L5,42,Rendah
+L5,128,Sedang
+L5,336,Tinggi
+L5,448,Tinggi
+L5,126,Sedang
+L5,126,Sedang
+L5,320,Tinggi
+L5,392,Tinggi
+L5,224,Tinggi
+L5,90,Rendah
+L5,60,Rendah
+L5,40,Sangat Rendah
+L5,100,Rendah
+L5,300,Tinggi
+L5,243,Tinggi
+L5,189,Sedang
+L5,126,Sedang
+L5,126,Sedang
+L5,200,Sedang
+L5,405,Tinggi
+L5,500,Tinggi
+L5,270,Tinggi
+L5,360,Tinggi
+L6,90,Rendah
+L6,12,Sangat Rendah
+L6,450,Tinggi
+L6,144,Sedang
+L6,30,Sangat Rendah
+L6,54,Rendah
+L6,4,Sangat Rendah
+L6,300,Tinggi
+L6,800,Sangat Tinggi
+L6,192,Sedang
+L6,40,Sangat Rendah
+L6,120,Sedang
+L6,90,Rendah
+L6,56,Rendah
+L6,144,Sedang
+L6,420,Tinggi
+L6,4,Sangat Rendah
+L6,21,Sangat Rendah
+L6,28,Sangat Rendah
+L6,20,Sangat Rendah
+L6,24,Sangat Rendah
+L6,40,Sangat Rendah
+L6,16,Sangat Rendah
+L6,72,Rendah
+L6,144,Sedang
+L6,56,Rendah
+L6,243,Tinggi
+L6,162,Sedang
+L6,162,Sedang
+L6,189,Sedang
+L6,64,Rendah
+L6,128,Sedang
+L6,128,Sedang
+L6,120,Sedang
+L6,120,Sedang
+L6,96,Rendah
+L6,84,Rendah
+L6,60,Rendah
+L6,120,Sedang
+L6,96,Rendah
+L6,84,Rendah
+L6,243,Tinggi
+L6,147,Sedang
+L6,112,Sedang
+L6,80,Rendah
+L6,160,Sedang
+L6,162,Sedang
+L6,18,Sangat Rendah
+L6,30,Sangat Rendah
+L6,30,Sangat Rendah
+L6,80,Rendah
+L6,288,Tinggi
+L6,500,Tinggi
+L6,300,Tinggi
+L6,270,Tinggi
+T1,150,Sedang
+T1,36,Sangat Rendah
+T1,180,Sedang
+T1,160,Sedang
+T1,27,Sangat Rendah
+T1,168,Sedang
+T1,12,Sangat Rendah
+T1,180,Sedang
+T1,192,Sedang
+T1,224,Tinggi
+T1,120,Sedang
+T1,160,Sedang
+T1,336,Tinggi
+T1,30,Sangat Rendah
+T1,315,Tinggi
+T1,210,Tinggi
+T1,60,Rendah
+T1,4,Sangat Rendah
+T1,252,Tinggi
+T1,7,Sangat Rendah
+T1,16,Sangat Rendah
+T1,18,Sangat Rendah
+T1,16,Sangat Rendah
+T1,81,Rendah
+T1,72,Rendah
+T1,36,Sangat Rendah
+T1,24,Sangat Rendah
+T1,48,Rendah
+T1,56,Rendah
+T1,120,Sedang
+T1,144,Sedang
+T1,168,Sedang
+T1,126,Sedang
+T1,240,Tinggi
+T1,448,Tinggi
+T1,336,Tinggi
+T1,135,Sedang
+T1,108,Sedang
+T1,175,Sedang
+T1,210,Tinggi
+T1,96,Rendah
+T1,180,Sedang
+T1,384,Tinggi
+T1,448,Tinggi
+T1,72,Rendah
+T1,48,Rendah
+T1,120,Sedang
+T1,120,Sedang
+T1,96,Rendah
+T1,144,Sedang
+T1,48,Rendah
+T1,162,Sedang
+T1,63,Rendah
+T1,54,Rendah
+T1,108,Sedang
+T2,216,Tinggi
+T2,216,Tinggi
+T2,150,Sedang
+T2,180,Sedang
+T2,27,Sangat Rendah
+T2,48,Rendah
+T2,18,Sangat Rendah
+T2,112,Sedang
+T2,256,Tinggi
+T2,256,Tinggi
+T2,120,Sedang
+T2,200,Sedang
+T2,288,Tinggi
+T2,42,Rendah
+T2,54,Rendah
+T2,640,Sangat Tinggi
+T2,16,Sangat Rendah
+T2,3,Sangat Rendah
+T2,1,Sangat Rendah
+T2,12,Sangat Rendah
+T2,4,Sangat Rendah
+T2,60,Rendah
+T2,48,Rendah
+T2,90,Rendah
+T2,90,Rendah
+T2,105,Sedang
+T2,80,Rendah
+T2,80,Rendah
+T2,120,Sedang
+T2,96,Rendah
+T2,105,Sedang
+T2,80,Rendah
+T2,96,Rendah
+T2,96,Rendah
+T2,98,Rendah
+T2,70,Rendah
+T2,32,Sangat Rendah
+T2,40,Sangat Rendah
+T2,80,Rendah
+T2,210,Tinggi
+T2,140,Sedang
+T2,72,Rendah
+T2,96,Rendah
+T2,84,Rendah
+T2,108,Sedang
+T2,48,Rendah
+T2,162,Sedang
+T2,63,Rendah
+T2,120,Sedang
+T2,160,Sedang
+T2,48,Rendah
+T2,90,Rendah
+T2,40,Sangat Rendah
+T2,72,Rendah
+T2,54,Rendah
+T3,150,Sedang
+T3,80,Rendah
+T3,200,Sedang
+T3,50,Rendah
+T3,63,Rendah
+T3,32,Sangat Rendah
+T3,24,Sangat Rendah
+T3,378,Tinggi
+T3,180,Sedang
+T3,120,Sedang
+T3,64,Rendah
+T3,180,Sedang
+T3,108,Sedang
+T3,24,Sangat Rendah
+T3,175,Sedang
+T3,576,Sangat Tinggi
+T3,12,Sangat Rendah
+T3,8,Sangat Rendah
+T3,5,Sangat Rendah
+T3,3,Sangat Rendah
+T3,72,Rendah
+T3,100,Rendah
+T3,6,Sangat Rendah
+T3,125,Sedang
+T3,10,Sangat Rendah
+T3,24,Sangat Rendah
+T3,24,Sangat Rendah
+T3,48,Rendah
+T3,30,Sangat Rendah
+T3,42,Rendah
+T3,42,Rendah
+T3,64,Rendah
+T3,36,Sangat Rendah
+T3,80,Rendah
+T3,216,Tinggi
+T3,48,Rendah
+T3,48,Rendah
+T3,35,Sangat Rendah
+T3,48,Rendah
+T3,48,Rendah
+T3,36,Sangat Rendah
+T3,135,Sedang
+T3,120,Sedang
+T3,80,Rendah
+T3,189,Sedang
+T3,126,Sedang
+T3,252,Tinggi
+T3,24,Sangat Rendah
+T3,45,Rendah
+T3,30,Sangat Rendah
+T3,126,Sedang
+T3,405,Tinggi
+T3,540,Sangat Tinggi
+T3,400,Tinggi
+T3,288,Tinggi
+T4,180,Sedang
+T4,150,Sedang
+T4,240,Tinggi
+T4,140,Sedang
+T4,135,Sedang
+T4,18,Sangat Rendah
+T4,80,Rendah
+T4,336,Tinggi
+T4,224,Tinggi
+T4,192,Sedang
+T4,125,Sedang
+T4,200,Sedang
+T4,144,Sedang
+T4,20,Sangat Rendah
+T4,294,Tinggi
+T4,560,Sangat Tinggi
+T4,45,Rendah
+T4,48,Rendah
+T4,36,Sangat Rendah
+T4,48,Rendah
+T4,15,Sangat Rendah
+T4,36,Sangat Rendah
+T4,28,Sangat Rendah
+T4,96,Rendah
+T4,36,Sangat Rendah
+T4,84,Rendah
+T4,72,Rendah
+T4,72,Rendah
+T4,84,Rendah
+T4,10,Sangat Rendah
+T4,63,Rendah
+T4,128,Sedang
+T4,140,Sedang
+T4,45,Rendah
+T4,60,Rendah
+T4,45,Rendah
+T4,24,Sangat Rendah
+T4,32,Sangat Rendah
+T4,45,Rendah
+T4,36,Sangat Rendah
+T4,45,Rendah
+T4,30,Sangat Rendah
+T4,42,Rendah
+T4,30,Sangat Rendah
+T4,36,Sangat Rendah
+T4,40,Sangat Rendah
+T4,96,Rendah
+T4,48,Rendah
+T4,80,Rendah
+T4,90,Rendah
+T4,42,Rendah
+T4,135,Sedang
+T4,100,Rendah
+T4,80,Rendah
+T4,60,Rendah
+O1,252,Tinggi
+O1,245,Tinggi
+O1,125,Sedang
+O1,280,Tinggi
+O1,135,Sedang
+O1,30,Sangat Rendah
+O1,168,Sedang
+O1,160,Sedang
+O1,126,Sedang
+O1,126,Sedang
+O1,60,Rendah
+O1,240,Tinggi
+O1,160,Sedang
+O1,6,Sangat Rendah
+O1,30,Sangat Rendah
+O1,210,Tinggi
+O1,50,Rendah
+O1,20,Sangat Rendah
+O1,45,Rendah
+O1,10,Sangat Rendah
+O1,10,Sangat Rendah
+O1,36,Sangat Rendah
+O1,4,Sangat Rendah
+O1,7,Sangat Rendah
+O1,24,Sangat Rendah
+O1,24,Sangat Rendah
+O1,42,Rendah
+O1,84,Rendah
+O1,36,Sangat Rendah
+O1,18,Sangat Rendah
+O1,18,Sangat Rendah
+O1,18,Sangat Rendah
+O1,18,Sangat Rendah
+O1,27,Sangat Rendah
+O1,24,Sangat Rendah
+O1,36,Sangat Rendah
+O1,36,Sangat Rendah
+O1,16,Sangat Rendah
+O1,18,Sangat Rendah
+O1,27,Sangat Rendah
+O1,8,Sangat Rendah
+O1,18,Sangat Rendah
+O1,24,Sangat Rendah
+O1,18,Sangat Rendah
+O1,12,Sangat Rendah
+O1,45,Rendah
+O1,42,Rendah
+O1,90,Rendah
+O1,120,Sedang
+O1,175,Sedang
+O1,24,Sangat Rendah
+O1,54,Rendah
+O1,225,Tinggi
+O1,125,Sedang
+O1,125,Sedang
+O2,216,Tinggi
+O2,48,Rendah
+O2,175,Sedang
+O2,30,Sangat Rendah
+O2,90,Rendah
+O2,96,Rendah
+O2,48,Rendah
+O2,84,Rendah
+O2,108,Sedang
+O2,192,Sedang
+O2,150,Sedang
+O2,200,Sedang
+O2,120,Sedang
+O2,16,Sangat Rendah
+O2,112,Sedang
+O2,180,Sedang
+O2,5,Sangat Rendah
+O2,48,Rendah
+O2,140,Sedang
+O2,12,Sangat Rendah
+O2,24,Sangat Rendah
+O2,27,Sangat Rendah
+O2,144,Sedang
+O2,162,Sedang
+O2,108,Sedang
+O2,56,Rendah
+O2,108,Sedang
+O2,96,Rendah
+O2,81,Rendah
+O2,108,Sedang
+O2,84,Rendah
+O2,48,Rendah
+O2,81,Rendah
+O2,80,Rendah
+O2,196,Sedang
+O2,80,Rendah
+O2,70,Rendah
+O2,120,Sedang
+O2,80,Rendah
+O2,108,Sedang
+O2,60,Rendah
+O2,80,Rendah
+O2,80,Rendah
+O2,120,Sedang
+O2,81,Rendah
+O2,36,Sangat Rendah
+O2,96,Rendah
+O2,126,Sedang
+O2,64,Rendah
+O2,72,Rendah
+O2,16,Sangat Rendah
+O2,72,Rendah
+O2,120,Sedang
+O2,120,Sedang
+O2,60,Rendah
+O3,216,Tinggi
+O3,80,Rendah
+O3,120,Sedang
+O3,175,Sedang
+O3,567,Sangat Tinggi
+O3,294,Tinggi
+O3,24,Sangat Rendah
+O3,567,Sangat Tinggi
+O3,63,Rendah
+O3,224,Tinggi
+O3,144,Sedang
+O3,112,Sedang
+O3,192,Sedang
+O3,6,Sangat Rendah
+O3,72,Rendah
+O3,144,Sedang
+O3,18,Sangat Rendah
+O3,36,Sangat Rendah
+O3,6,Sangat Rendah
+O3,100,Rendah
+O3,160,Sedang
+O3,42,Rendah
+O3,192,Sedang
+O3,180,Sedang
+O3,448,Tinggi
+O3,448,Tinggi
+O3,648,Sangat Tinggi
+O3,448,Tinggi
+O3,448,Tinggi
+O3,648,Sangat Tinggi
+O3,343,Tinggi
+O3,392,Tinggi
+O3,448,Tinggi
+O3,448,Tinggi
+O3,432,Tinggi
+O3,294,Tinggi
+O3,560,Sangat Tinggi
+O3,560,Sangat Tinggi
+O3,448,Tinggi
+O3,280,Tinggi
+O3,441,Tinggi
+O3,448,Tinggi
+O3,294,Tinggi
+O3,448,Tinggi
+O3,80,Rendah
+O3,54,Rendah
+O3,64,Rendah
+O3,168,Sedang
+O3,210,Tinggi
+O3,168,Sedang
+O3,140,Sedang
+O3,72,Rendah
+O3,350,Tinggi
+O3,350,Tinggi
+O3,400,Tinggi
+O4,343,Tinggi
+O4,125,Sedang
+O4,90,Rendah
+O4,32,Sangat Rendah
+O4,105,Sedang
+O4,64,Rendah
+O4,60,Rendah
+O4,48,Rendah
+O4,144,Sedang
+O4,256,Tinggi
+O4,128,Sedang
+O4,240,Tinggi
+O4,240,Tinggi
+O4,8,Sangat Rendah
+O4,245,Tinggi
+O4,64,Rendah
+O4,12,Sangat Rendah
+O4,4,Sangat Rendah
+O4,1,Sangat Rendah
+O4,3,Sangat Rendah
+O4,6,Sangat Rendah
+O4,24,Sangat Rendah
+O4,4,Sangat Rendah
+O4,252,Tinggi
+O4,10,Sangat Rendah
+O4,8,Sangat Rendah
+O4,16,Sangat Rendah
+O4,24,Sangat Rendah
+O4,30,Sangat Rendah
+O4,18,Sangat Rendah
+O4,36,Sangat Rendah
+O4,75,Rendah
+O4,60,Rendah
+O4,24,Sangat Rendah
+O4,18,Sangat Rendah
+O4,48,Rendah
+O4,15,Sangat Rendah
+O4,30,Sangat Rendah
+O4,24,Sangat Rendah
+O4,48,Rendah
+O4,60,Rendah
+O4,24,Sangat Rendah
+O4,64,Rendah
+O4,72,Rendah
+O4,28,Sangat Rendah
+O4,42,Rendah
+O4,200,Sedang
+O4,24,Sangat Rendah
+O4,24,Sangat Rendah
+O4,36,Sangat Rendah
+O4,54,Rendah
+O4,48,Rendah
+O4,32,Sangat Rendah
+O4,56,Rendah
+O4,28,Sangat Rendah
+O5,125,Sedang
+O5,144,Sedang
+O5,150,Sedang
+O5,175,Sedang
+O5,567,Sangat Tinggi
+O5,180,Sedang
+O5,48,Rendah
+O5,250,Tinggi
+O5,224,Tinggi
+O5,192,Sedang
+O5,270,Tinggi
+O5,175,Sedang
+O5,192,Sedang
+O5,27,Sangat Rendah
+O5,36,Sangat Rendah
+O5,72,Rendah
+O5,20,Sangat Rendah
+O5,75,Rendah
+O5,16,Sangat Rendah
+O5,90,Rendah
+O5,12,Sangat Rendah
+O5,84,Rendah
+O5,7,Sangat Rendah
+O5,180,Sedang
+O5,392,Tinggi
+O5,392,Tinggi
+O5,504,Sangat Tinggi
+O5,378,Tinggi
+O5,392,Tinggi
+O5,405,Tinggi
+O5,224,Tinggi
+O5,280,Tinggi
+O5,320,Tinggi
+O5,196,Sedang
+O5,168,Sedang
+O5,432,Tinggi
+O5,224,Tinggi
+O5,224,Tinggi
+O5,360,Tinggi
+O5,378,Tinggi
+O5,210,Tinggi
+O5,432,Tinggi
+O5,240,Tinggi
+O5,432,Tinggi
+O5,72,Rendah
+O5,36,Sangat Rendah
+O5,64,Rendah
+O5,80,Rendah
+O5,150,Sedang
+O5,80,Rendah
+O5,16,Sangat Rendah
+O5,90,Rendah
+O5,40,Sangat Rendah
+O5,100,Rendah
+O5,120,Sedang
+O6,216,Tinggi
+O6,80,Rendah
+O6,150,Sedang
+O6,24,Sangat Rendah
+O6,135,Sedang
+O6,80,Rendah
+O6,120,Sedang
+O6,168,Sedang
+O6,210,Tinggi
+O6,288,Tinggi
+O6,125,Sedang
+O6,225,Tinggi
+O6,378,Tinggi
+O6,14,Sangat Rendah
+O6,168,Sedang
+O6,80,Rendah
+O6,21,Sangat Rendah
+O6,1,Sangat Rendah
+O6,6,Sangat Rendah
+O6,4,Sangat Rendah
+O6,96,Rendah
+O6,18,Sangat Rendah
+O6,18,Sangat Rendah
+O6,28,Sangat Rendah
+O6,10,Sangat Rendah
+O6,12,Sangat Rendah
+O6,28,Sangat Rendah
+O6,72,Rendah
+O6,108,Sedang
+O6,4,Sangat Rendah
+O6,48,Rendah
+O6,4,Sangat Rendah
+O6,8,Sangat Rendah
+O6,18,Sangat Rendah
+O6,32,Sangat Rendah
+O6,18,Sangat Rendah
+O6,12,Sangat Rendah
+O6,2,Sangat Rendah
+O6,48,Rendah
+O6,12,Sangat Rendah
+O6,12,Sangat Rendah
+O6,18,Sangat Rendah
+O6,18,Sangat Rendah
+O6,18,Sangat Rendah
+O6,18,Sangat Rendah
+O6,20,Sangat Rendah
+O6,72,Rendah
+O6,63,Rendah
+O6,120,Sedang
+O6,64,Rendah
+O6,18,Sangat Rendah
+O6,72,Rendah
+O6,60,Rendah
+O6,60,Rendah
+O6,60,Rendah
+E1,216,Tinggi
+E1,252,Tinggi
+E1,378,Tinggi
+E1,90,Rendah
+E1,147,Sedang
+E1,245,Tinggi
+E1,96,Rendah
+E1,175,Sedang
+E1,64,Rendah
+E1,224,Tinggi
+E1,140,Sedang
+E1,280,Tinggi
+E1,280,Tinggi
+E1,1,Sangat Rendah
+E1,144,Sedang
+E1,12,Sangat Rendah
+E1,12,Sangat Rendah
+E1,18,Sangat Rendah
+E1,6,Sangat Rendah
+E1,4,Sangat Rendah
+E1,20,Sangat Rendah
+E1,72,Rendah
+E1,50,Rendah
+E1,24,Sangat Rendah
+E1,18,Sangat Rendah
+E1,12,Sangat Rendah
+E1,36,Sangat Rendah
+E1,42,Rendah
+E1,56,Rendah
+E1,4,Sangat Rendah
+E1,27,Sangat Rendah
+E1,27,Sangat Rendah
+E1,9,Sangat Rendah
+E1,12,Sangat Rendah
+E1,12,Sangat Rendah
+E1,18,Sangat Rendah
+E1,4,Sangat Rendah
+E1,6,Sangat Rendah
+E1,18,Sangat Rendah
+E1,18,Sangat Rendah
+E1,48,Rendah
+E1,18,Sangat Rendah
+E1,27,Sangat Rendah
+E1,12,Sangat Rendah
+E1,36,Sangat Rendah
+E1,28,Sangat Rendah
+E1,45,Rendah
+E1,120,Sedang
+E1,100,Rendah
+E1,150,Sedang
+E1,168,Sedang
+E1,150,Sedang
+E1,64,Rendah
+E1,125,Sedang
+E1,125,Sedang
+E2,210,Tinggi
+E2,147,Sedang
+E2,294,Tinggi
+E2,320,Tinggi
+E2,441,Tinggi
+E2,448,Tinggi
+E2,84,Rendah
+E2,150,Sedang
+E2,210,Tinggi
+E2,224,Tinggi
+E2,125,Sedang
+E2,175,Sedang
+E2,280,Tinggi
+E2,4,Sangat Rendah
+E2,140,Sedang
+E2,50,Rendah
+E2,96,Rendah
+E2,45,Rendah
+E2,20,Sangat Rendah
+E2,9,Sangat Rendah
+E2,120,Sedang
+E2,18,Sangat Rendah
+E2,8,Sangat Rendah
+E2,9,Sangat Rendah
+E2,6,Sangat Rendah
+E2,18,Sangat Rendah
+E2,6,Sangat Rendah
+E2,18,Sangat Rendah
+E2,36,Sangat Rendah
+E2,18,Sangat Rendah
+E2,36,Sangat Rendah
+E2,18,Sangat Rendah
+E2,12,Sangat Rendah
+E2,18,Sangat Rendah
+E2,18,Sangat Rendah
+E2,12,Sangat Rendah
+E2,2,Sangat Rendah
+E2,2,Sangat Rendah
+E2,24,Sangat Rendah
+E2,45,Rendah
+E2,12,Sangat Rendah
+E2,18,Sangat Rendah
+E2,36,Sangat Rendah
+E2,24,Sangat Rendah
+E2,56,Rendah
+E2,28,Sangat Rendah
+E2,60,Rendah
+E2,150,Sedang
+E2,100,Rendah
+E2,80,Rendah
+E2,144,Sedang
+E2,324,Tinggi
+E2,560,Sangat Tinggi
+E2,480,Tinggi
+E2,480,Tinggi
+E3,343,Tinggi
+E3,168,Sedang
+E3,210,Tinggi
+E3,245,Tinggi
+E3,63,Rendah
+E3,224,Tinggi
+E3,48,Rendah
+E3,240,Tinggi
+E3,168,Sedang
+E3,256,Tinggi
+E3,42,Rendah
+E3,140,Sedang
+E3,245,Tinggi
+E3,6,Sangat Rendah
+E3,96,Rendah
+E3,24,Sangat Rendah
+E3,6,Sangat Rendah
+E3,4,Sangat Rendah
+E3,1,Sangat Rendah
+E3,3,Sangat Rendah
+E3,24,Sangat Rendah
+E3,240,Tinggi
+E3,4,Sangat Rendah
+E3,1,Sangat Rendah
+E3,1,Sangat Rendah
+E3,27,Sangat Rendah
+E3,12,Sangat Rendah
+E3,1,Sangat Rendah
+E3,1,Sangat Rendah
+E3,9,Sangat Rendah
+E3,18,Sangat Rendah
+E3,12,Sangat Rendah
+E3,12,Sangat Rendah
+E3,16,Sangat Rendah
+E3,18,Sangat Rendah
+E3,36,Sangat Rendah
+E3,6,Sangat Rendah
+E3,12,Sangat Rendah
+E3,12,Sangat Rendah
+E3,36,Sangat Rendah
+E3,64,Rendah
+E3,24,Sangat Rendah
+E3,3,Sangat Rendah
+E3,1,Sangat Rendah
+E3,24,Sangat Rendah
+E3,42,Rendah
+E3,72,Rendah
+E3,18,Sangat Rendah
+E3,18,Sangat Rendah
+E3,18,Sangat Rendah
+E3,24,Sangat Rendah
+E3,64,Rendah
+E3,21,Sangat Rendah
+E3,56,Rendah
+E3,72,Rendah
+Q1,343,Tinggi
+Q1,245,Tinggi
+Q1,126,Sedang
+Q1,90,Rendah
+Q1,210,Tinggi
+Q1,175,Sedang
+Q1,100,Rendah
+Q1,240,Tinggi
+Q1,144,Sedang
+Q1,192,Sedang
+Q1,72,Rendah
+Q1,280,Tinggi
+Q1,175,Sedang
+Q1,36,Sangat Rendah
+Q1,180,Sedang
+Q1,126,Sedang
+Q1,60,Rendah
+Q1,120,Sedang
+Q1,20,Sangat Rendah
+Q1,48,Rendah
+Q1,160,Sedang
+Q1,96,Rendah
+Q1,96,Rendah
+Q1,560,Sangat Tinggi
+Q1,448,Tinggi
+Q1,448,Tinggi
+Q1,336,Tinggi
+Q1,576,Sangat Tinggi
+Q1,576,Sangat Tinggi
+Q1,576,Sangat Tinggi
+Q1,448,Tinggi
+Q1,504,Sangat Tinggi
+Q1,448,Tinggi
+Q1,448,Tinggi
+Q1,512,Sangat Tinggi
+Q1,392,Tinggi
+Q1,336,Tinggi
+Q1,294,Tinggi
+Q1,648,Sangat Tinggi
+Q1,576,Sangat Tinggi
+Q1,448,Tinggi
+Q1,576,Sangat Tinggi
+Q1,384,Tinggi
+Q1,448,Tinggi
+Q1,20,Sangat Rendah
+Q1,27,Sangat Rendah
+Q1,90,Rendah
+Q1,105,Sedang
+Q1,81,Rendah
+Q1,108,Sedang
+Q1,36,Sangat Rendah
+Q1,108,Sedang
+Q1,560,Sangat Tinggi
+Q1,216,Tinggi
+Q1,240,Tinggi
+Q2,216,Tinggi
+Q2,175,Sedang
+Q2,162,Sedang
+Q2,63,Rendah
+Q2,189,Sedang
+Q2,144,Sedang
+Q2,120,Sedang
+Q2,105,Sedang
+Q2,168,Sedang
+Q2,108,Sedang
+Q2,60,Rendah
+Q2,315,Tinggi
+Q2,120,Sedang
+Q2,24,Sangat Rendah
+Q2,180,Sedang
+Q2,60,Rendah
+Q2,6,Sangat Rendah
+Q2,45,Rendah
+Q2,15,Sangat Rendah
+Q2,24,Sangat Rendah
+Q2,48,Rendah
+Q2,36,Sangat Rendah
+Q2,5,Sangat Rendah
+Q2,10,Sangat Rendah
+Q2,120,Sedang
+Q2,100,Rendah
+Q2,168,Sedang
+Q2,252,Tinggi
+Q2,168,Sedang
+Q2,36,Sangat Rendah
+Q2,30,Sangat Rendah
+Q2,24,Sangat Rendah
+Q2,16,Sangat Rendah
+Q2,20,Sangat Rendah
+Q2,30,Sangat Rendah
+Q2,120,Sedang
+Q2,15,Sangat Rendah
+Q2,30,Sangat Rendah
+Q2,60,Rendah
+Q2,30,Sangat Rendah
+Q2,80,Rendah
+Q2,24,Sangat Rendah
+Q2,60,Rendah
+Q2,90,Rendah
+Q2,200,Sedang
+Q2,200,Sedang
+Q2,162,Sedang
+Q2,100,Rendah
+Q2,100,Rendah
+Q2,100,Rendah
+Q2,144,Sedang
+Q2,48,Rendah
+Q2,32,Sangat Rendah
+Q2,125,Sedang
+Q2,125,Sedang
+Q3,125,Sedang
+Q3,64,Rendah
+Q3,180,Sedang
+Q3,27,Sangat Rendah
+Q3,135,Sedang
+Q3,96,Rendah
+Q3,60,Rendah
+Q3,96,Rendah
+Q3,168,Sedang
+Q3,256,Tinggi
+Q3,32,Sangat Rendah
+Q3,378,Tinggi
+Q3,336,Tinggi
+Q3,14,Sangat Rendah
+Q3,64,Rendah
+Q3,18,Sangat Rendah
+Q3,2,Sangat Rendah
+Q3,1,Sangat Rendah
+Q3,6,Sangat Rendah
+Q3,5,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,8,Sangat Rendah
+Q3,9,Sangat Rendah
+Q3,10,Sangat Rendah
+Q3,12,Sangat Rendah
+Q3,21,Sangat Rendah
+Q3,10,Sangat Rendah
+Q3,60,Rendah
+Q3,36,Sangat Rendah
+Q3,12,Sangat Rendah
+Q3,9,Sangat Rendah
+Q3,12,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,36,Sangat Rendah
+Q3,4,Sangat Rendah
+Q3,12,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,8,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,60,Rendah
+Q3,18,Sangat Rendah
+Q3,36,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,12,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,54,Rendah
+Q3,135,Sedang
+Q3,36,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,18,Sangat Rendah
+Q3,16,Sangat Rendah
+Q3,72,Rendah
+Q3,40,Sangat Rendah
+Q3,80,Rendah
+Q3,72,Rendah
+Q4,216,Tinggi
+Q4,36,Sangat Rendah
+Q4,280,Tinggi
+Q4,175,Sedang
+Q4,441,Tinggi
+Q4,144,Sedang
+Q4,60,Rendah
+Q4,96,Rendah
+Q4,192,Sedang
+Q4,256,Tinggi
+Q4,126,Sedang
+Q4,315,Tinggi
+Q4,324,Tinggi
+Q4,12,Sangat Rendah
+Q4,126,Sedang
+Q4,189,Sedang
+Q4,140,Sedang
+Q4,40,Sangat Rendah
+Q4,28,Sangat Rendah
+Q4,6,Sangat Rendah
+Q4,32,Sangat Rendah
+Q4,72,Rendah
+Q4,32,Sangat Rendah
+Q4,16,Sangat Rendah
+Q4,336,Tinggi
+Q4,294,Tinggi
+Q4,120,Sedang
+Q4,180,Sedang
+Q4,160,Sedang
+Q4,225,Tinggi
+Q4,175,Sedang
+Q4,160,Sedang
+Q4,225,Tinggi
+Q4,200,Sedang
+Q4,108,Sedang
+Q4,216,Tinggi
+Q4,112,Sedang
+Q4,120,Sedang
+Q4,225,Tinggi
+Q4,168,Sedang
+Q4,336,Tinggi
+Q4,200,Sedang
+Q4,192,Sedang
+Q4,288,Tinggi
+Q4,162,Sedang
+Q4,30,Sangat Rendah
+Q4,108,Sedang
+Q4,18,Sangat Rendah
+Q4,12,Sangat Rendah
+Q4,18,Sangat Rendah
+Q4,48,Rendah
+Q4,360,Tinggi
+Q4,630,Sangat Tinggi
+Q4,80,Rendah
+Q4,400,Tinggi
+Q5,150,Sedang
+Q5,48,Rendah
+Q5,189,Sedang
+Q5,72,Rendah
+Q5,105,Sedang
+Q5,216,Tinggi
+Q5,125,Sedang
+Q5,160,Sedang
+Q5,192,Sedang
+Q5,256,Tinggi
+Q5,144,Sedang
+Q5,300,Tinggi
+Q5,378,Tinggi
+Q5,2,Sangat Rendah
+Q5,48,Rendah
+Q5,140,Sedang
+Q5,3,Sangat Rendah
+Q5,4,Sangat Rendah
+Q5,5,Sangat Rendah
+Q5,2,Sangat Rendah
+Q5,24,Sangat Rendah
+Q5,6,Sangat Rendah
+Q5,8,Sangat Rendah
+Q5,10,Sangat Rendah
+Q5,2,Sangat Rendah
+Q5,27,Sangat Rendah
+Q5,6,Sangat Rendah
+Q5,2,Sangat Rendah
+Q5,4,Sangat Rendah
+Q5,12,Sangat Rendah
+Q5,6,Sangat Rendah
+Q5,12,Sangat Rendah
+Q5,12,Sangat Rendah
+Q5,18,Sangat Rendah
+Q5,18,Sangat Rendah
+Q5,8,Sangat Rendah
+Q5,16,Sangat Rendah
+Q5,16,Sangat Rendah
+Q5,18,Sangat Rendah
+Q5,48,Rendah
+Q5,24,Sangat Rendah
+Q5,18,Sangat Rendah
+Q5,36,Sangat Rendah
+Q5,12,Sangat Rendah
+Q5,7,Sangat Rendah
+Q5,6,Sangat Rendah
+Q5,72,Rendah
+Q5,80,Rendah
+Q5,100,Rendah
+Q5,80,Rendah
+Q5,12,Sangat Rendah
+Q5,360,Tinggi
+Q5,300,Tinggi
+Q5,270,Tinggi
+Q5,240,Tinggi
+Q6,343,Tinggi
+Q6,45,Rendah
+Q6,125,Sedang
+Q6,245,Tinggi
+Q6,135,Sedang
+Q6,210,Tinggi
+Q6,60,Rendah
+Q6,100,Rendah
+Q6,100,Rendah
+Q6,378,Tinggi
+Q6,245,Tinggi
+Q6,112,Sedang
+Q6,336,Tinggi
+Q6,16,Sangat Rendah
+Q6,112,Sedang
+Q6,56,Rendah
+Q6,1,Sangat Rendah
+Q6,6,Sangat Rendah
+Q6,6,Sangat Rendah
+Q6,90,Rendah
+Q6,96,Rendah
+Q6,42,Rendah
+Q6,48,Rendah
+Q6,120,Sedang
+Q6,150,Sedang
+Q6,294,Tinggi
+Q6,210,Tinggi
+Q6,210,Tinggi
+Q6,210,Tinggi
+Q6,180,Sedang
+Q6,180,Sedang
+Q6,200,Sedang
+Q6,160,Sedang
+Q6,80,Rendah
+Q6,84,Rendah
+Q6,75,Rendah
+Q6,6,Sangat Rendah
+Q6,72,Rendah
+Q6,60,Rendah
+Q6,180,Sedang
+Q6,100,Rendah
+Q6,180,Sedang
+Q6,80,Rendah
+Q6,100,Rendah
+Q6,24,Sangat Rendah
+Q6,30,Sangat Rendah
+Q6,40,Sangat Rendah
+Q6,72,Rendah
+Q6,60,Rendah
+Q6,48,Rendah
+Q6,84,Rendah
+Q6,210,Tinggi
+Q6,160,Sedang
+Q6,125,Sedang
+Q6,125,Sedang
+Q7,216,Tinggi
+Q7,100,Rendah
+Q7,252,Tinggi
+Q7,360,Tinggi
+Q7,189,Sedang
+Q7,120,Sedang
+Q7,54,Rendah
+Q7,192,Sedang
+Q7,147,Sedang
+Q7,224,Tinggi
+Q7,224,Tinggi
+Q7,128,Sedang
+Q7,336,Tinggi
+Q7,8,Sangat Rendah
+Q7,54,Rendah
+Q7,30,Sangat Rendah
+Q7,20,Sangat Rendah
+Q7,36,Sangat Rendah
+Q7,18,Sangat Rendah
+Q7,5,Sangat Rendah
+Q7,24,Sangat Rendah
+Q7,27,Sangat Rendah
+Q7,24,Sangat Rendah
+Q7,180,Sedang
+Q7,54,Rendah
+Q7,48,Rendah
+Q7,48,Rendah
+Q7,72,Rendah
+Q7,42,Rendah
+Q7,24,Sangat Rendah
+Q7,36,Sangat Rendah
+Q7,45,Rendah
+Q7,45,Rendah
+Q7,30,Sangat Rendah
+Q7,48,Rendah
+Q7,72,Rendah
+Q7,10,Sangat Rendah
+Q7,30,Sangat Rendah
+Q7,60,Rendah
+Q7,60,Rendah
+Q7,40,Sangat Rendah
+Q7,45,Rendah
+Q7,24,Sangat Rendah
+Q7,54,Rendah
+Q7,18,Sangat Rendah
+Q7,18,Sangat Rendah
+Q7,72,Rendah
+Q7,18,Sangat Rendah
+Q7,18,Sangat Rendah
+Q7,12,Sangat Rendah
+Q7,16,Sangat Rendah
+Q7,54,Rendah
+Q7,60,Rendah
+Q7,100,Rendah
+Q7,80,Rendah
